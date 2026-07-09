@@ -86,3 +86,20 @@ Este proceso me dejó varios aprendizajes concretos:
   combinando ambos enfoques de testing.
 - Documentar la evidencia en el momento (y no después) ahorra tiempo y 
   mejora la calidad del reporte final.
+
+
+## Reflexión sobre feedback radicalmente sincero
+
+Durante el proceso, apliqué el concepto de feedback radicalmente sincero al 
+redactar los reportes de bugs: en lugar de suavizar las observaciones o 
+dejarlas ambiguas, prioricé ser **directo y específico** sobre cada problema 
+encontrado, evitando tanto la agresividad como la vaguedad excesiva.
+
+Por ejemplo, en el caso del bug del carrito persistente tras el logout, no 
+me limité a señalar "el carrito falla", sino que documenté exactamente 
+**qué pasos lo reproducen, por qué es un problema desde la perspectiva del 
+usuario, y qué comportamiento sería el esperado**. Esto refleja el principio 
+de que la sinceridad radical no es sinónimo de crítica dura, sino de 
+comunicación clara que le importa genuinamente al receptor — en este caso, 
+al equipo de desarrollo que recibiría el reporte.
+  
